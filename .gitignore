@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Pack files
+cache/webpack/client-production/0.pack
+cache/webpack/server-production/0.pack
